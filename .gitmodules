@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "mind"]
-	path = mind
-	url = https://github.com/cran/mind
 [submodule "SAEval"]
 	path = SAEval
 	url = https://github.com/cran/SAEval
+[submodule "mind"]
+	path = mind
+	url = https://github.com/cran/mind
